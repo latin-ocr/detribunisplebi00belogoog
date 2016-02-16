@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./detribunisplebi00belogoog_0007.png"; bbox 0 0 3005 4955; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1230 1463 1340 1526">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1230 1463 1340 1526">
+     <span class='ocr_line' id='line_1_1' title="bbox 1230 1463 1340 1526; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1230 1463 1340 1526; x_wconf 86' lang='lat' dir='ltr'><strong>DE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 260 1701 2320 1900">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 191 1620 2320 1949">
+     <span class='ocr_line' id='line_1_2' title="bbox 260 1701 2320 1900; baseline 0 -42"><span class='ocrx_word' id='word_1_2' title='bbox 260 1703 1357 1859; x_wconf 83' lang='lat' dir='ltr'>TRIBUNIS</span> <span class='ocrx_word' id='word_1_3' title='bbox 1529 1701 2320 1900; x_wconf 79' lang='lat' dir='ltr'>PLEBIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 394 2148 2177 2298">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 394 2148 2177 2298">
+     <span class='ocr_line' id='line_1_3' title="bbox 394 2148 2177 2298; baseline 0.002 -4"><span class='ocrx_word' id='word_1_4' title='bbox 394 2148 841 2295; x_wconf 62' lang='lat' dir='ltr'>offlGINE</span> <span class='ocrx_word' id='word_1_5' title='bbox 892 2213 1033 2295; x_wconf 83' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1081 2200 1188 2295; x_wconf 74' lang='lat' dir='ltr'><strong>w</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1240 2212 1612 2294; x_wconf 85' lang='lat' dir='ltr'><strong>FORMA</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1659 2214 1795 2294; x_wconf 81' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1854 2211 2177 2298; x_wconf 82' lang='lat' dir='ltr'><strong>MODO</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 731 2464 1834 2533">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 731 2464 1834 2533">
+     <span class='ocr_line' id='line_1_4' title="bbox 731 2464 1834 2533; baseline 0.002 -3"><span class='ocrx_word' id='word_1_10' title='bbox 731 2464 1266 2533; x_wconf 87' lang='lat' dir='ltr'>TRIBUNICIAE</span> <span class='ocrx_word' id='word_1_11' title='bbox 1313 2464 1834 2533; x_wconf 85' lang='lat' dir='ltr'>POTESTATIS</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
